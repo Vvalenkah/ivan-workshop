@@ -1,2 +1,4 @@
 TEST 1 :)
 CHANGEd from <master>
+new changes
+
