@@ -1,4 +1,5 @@
 TEST 1 :)
-CHANGEd from <master>
-new changes
+Changes from <master>
+Changes from <aaa>
 
+text from master: new changes!!!
